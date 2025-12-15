@@ -1,0 +1,20 @@
+{
+    "sampleData": [
+        {
+            "name": "Portfolio Site",
+            "url": "https://username.github.io/portfolio",
+            "group": "personal"
+        },
+        {
+            "name": "Project Dashboard",
+            "url": "https://username.github.io/project-dashboard",
+            "group": "projects"
+        },
+        {
+            "name": "Documentation",
+            "url": "https://username.github.io/docs",
+            "group": "documentation"
+        }
+    ],
+    "defaultGroups": ["personal", "projects", "documentation", "experimental"]
+}
